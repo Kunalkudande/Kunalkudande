@@ -26,13 +26,13 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/kunal-kudande/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/kudandekunal1410" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=hackerrank" height="30" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/kudandekunal1410/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
